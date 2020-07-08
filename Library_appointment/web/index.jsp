@@ -11,10 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-<<<<<<< HEAD
 <a href="test">testbcvb!!!!!</a>
-=======
-<a href="test">test1</a>
->>>>>>> master
   </body>
 </html>
