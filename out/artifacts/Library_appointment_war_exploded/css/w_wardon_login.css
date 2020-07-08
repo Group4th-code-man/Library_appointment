@@ -1,0 +1,61 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image:url(../img/background.jfif);
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+
+#bigBox
+{
+    width: 600px;
+    height: 350px;
+    background:rgba(177,216,197,0.3) ;
+    position:fixed;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px 5px rgba(0,0,0,0.2);
+}
+
+#bigBox h1
+{
+    color:white;
+}
+
+#bigBox .inputBox
+{
+    margin-top:50px;
+}
+
+#bigBox .inputBox .inputText
+{
+    margin-top:20px;
+}
+
+#bigBox .inputBox .inputText input
+{
+    border:0;
+    padding:10px 10px;
+    border-bottom:1px solid white;
+    background-color:#00000000;
+    color:white;
+    font-size: 20px;
+}
+
+#bigBox .inputBox .inputButton
+{
+    border:0;
+    width:200px;
+    height:35px;
+    color:white;
+    margin-top:30px;
+    border-radius:20px;
+    font-size: 15px;
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
