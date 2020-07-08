@@ -11,14 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-<<<<<<< HEAD
-pppvoolj
-=======
-<<<<<<< HEAD
-qqqii
-=======
-yyy
->>>>>>> master
->>>>>>> master
+let's start
 </body>
 </html>
