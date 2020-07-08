@@ -13,8 +13,8 @@
 <body>
 <<<<<<< HEAD
 qqqii
-=======
-yyypppp
+=======bnvcncvbn的方式
+yyy
 >>>>>>> master
 </body>
 </html>
