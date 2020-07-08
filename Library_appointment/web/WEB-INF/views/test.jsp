@@ -11,6 +11,14 @@
     <title>Title</title>
 </head>
 <body>
+<<<<<<< HEAD
 pppvoolj
+=======
+<<<<<<< HEAD
+qqqii
+=======
+yyy
+>>>>>>> master
+>>>>>>> master
 </body>
 </html>
