@@ -13,7 +13,7 @@
 <body>
 <<<<<<< HEAD
 qqqii
-=======
+=======bnvcncvbn
 yyy
 >>>>>>> master
 </body>
