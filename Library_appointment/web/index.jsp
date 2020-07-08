@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-<a href="test">test</a>
+<a href="test">testasd</a>
   </body>
 </html>
