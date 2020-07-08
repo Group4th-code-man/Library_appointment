@@ -13,7 +13,7 @@
 <body>
 <<<<<<< HEAD
 qqqii
-=======bnvcncvbn
+=======bnvcncvbn的方式
 yyy
 >>>>>>> master
 </body>
