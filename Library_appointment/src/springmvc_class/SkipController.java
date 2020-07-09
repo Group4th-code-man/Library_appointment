@@ -11,4 +11,22 @@ public class SkipController {
     {
         return "test";
     }
+
+    @RequestMapping(value = "student_Homepage")
+    public String To_Student_Homepage()
+    {
+        return "Student_Homepage";
+    }
+
+    @RequestMapping(value = "student_seat")
+    public String To_Student_reserve_seat()
+    {
+        return "Student_reserve_seat";
+    }
+
+    @RequestMapping(value = "student_room")
+    public String To_Student_reserve_room()
+    {
+        return "Student_reserve_room";
+    }
 }
