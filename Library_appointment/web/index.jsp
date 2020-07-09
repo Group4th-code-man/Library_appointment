@@ -5,6 +5,6 @@
     <title>$Title$</title>
   </head>
   <body>
-<a href="warden_login">testbcvb!!!!!</a>
+<a href="login">testbcvb!!!!!</a>
   </body>
 </html>
