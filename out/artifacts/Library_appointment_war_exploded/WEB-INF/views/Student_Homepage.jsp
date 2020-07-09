@@ -27,7 +27,7 @@
         .z_left{
             position: absolute;
             left: 5px;
-            width: 300px;height: 650px;
+            width: 330px;height: 650px;
         }
         .z_left_head{
             position: absolute;
@@ -38,9 +38,8 @@
         .z_left_body{
             position: absolute;
             left: -50px;top:150px;
-            width: 300px;height: 500px;
+            width: 330px;height: 500px;
             background-color: white;
-
         }
         .z_line{
             position: absolute;
@@ -58,7 +57,7 @@
         }
         ul{
             list-style-type: none;
-            margin:10px;
+            margin:5px;
             text-align: center;
             font-size: 32px;
             font-family: 宋体;
@@ -99,15 +98,15 @@
                     <dl>
                         <dd style="margin-bottom: 10px;">
                             <a href="student_Homepage"><i class="layui-icon layui-icon-home" style="font-size:40px;color: #b2b2b2 "></i>
-                                &nbsp;预定信息</a>
+                                &nbsp;预定信息&nbsp;</a>
                         </dd>
                         <dd style="margin-bottom: 10px;">
                             <a href="student_seat"><i class="layui-icon layui-icon-read" style="font-size:40px;color: #b2b2b2 "></i>
-                                &nbsp;预定位置</a>
+                                &nbsp;预定位置&nbsp;</a>
                         </dd>
                         <dd style="margin-bottom: 10px;">
                             <a href="student_room"><i class="layui-icon layui-icon-app" style="font-size:40px;color: #b2b2b2 "></i>
-                                &nbsp;预定房间</a>
+                                &nbsp;预定房间&nbsp;</a>
                         </dd>
                     </dl>
                 </li>
