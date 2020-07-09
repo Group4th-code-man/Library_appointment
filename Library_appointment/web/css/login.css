@@ -59,3 +59,29 @@ body
     font-size: 15px;
     background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
 }
+
+#bigBox .parent{
+    margin-top:20px;
+    width: 100px;
+    height: 35px;
+    overflow: hidden;
+    background-color:#00000000;
+    margin-left: 175px;
+    color:black;
+    font-size: 15px;
+}
+
+#bigBox .parent select{
+    background:transparent;
+    border:none;
+    padding-left:0;
+    border-bottom:1px solid white;
+    width: 20px;
+    height:100%;
+}
+
+
+
+
+
+

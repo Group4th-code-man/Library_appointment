@@ -11,6 +11,11 @@
     <title>Title</title>
 </head>
 <body>
+<<<<<<< HEAD
 let's start!+++++;d
+=======
+let's start!+++++;
+kasuuwf9
+>>>>>>> master
 </body>
 </html>

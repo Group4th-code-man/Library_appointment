@@ -13,9 +13,9 @@ public class SkipController {
         return "test";
     }
 
-    @RequestMapping(value="warden_login")
+    @RequestMapping(value="login")
     public String warden_login()
     {
-        return "warden_login";
+        return "login";
     }
 }
