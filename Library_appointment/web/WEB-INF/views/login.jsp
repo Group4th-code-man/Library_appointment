@@ -10,6 +10,7 @@
 <head>
     <title>登录</title>
     <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="css/layui/css/layui.css">
 </head>
 <body>
 <center>

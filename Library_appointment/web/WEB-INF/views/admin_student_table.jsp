@@ -20,162 +20,56 @@
     <div class="lbt">
 
     </div>
-
     <div class="xxk">
         <div class="option">
-            <a href="跳转更改位置状态">
+            <a href="跳转违纪信息">
                 <div class="svg">
                     <svg t="1594271179368" class="icon" viewBox="0 0 1235 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="898" width="40" height="40"><path d="M70.62069 0h1094.620689a70.62069 70.62069 0 0 1 70.62069 70.62069v670.896551a70.62069 70.62069 0 0 1-70.62069 70.62069H70.62069a70.62069 70.62069 0 0 1-70.62069-70.62069V70.62069a70.62069 70.62069 0 0 1 70.62069-70.62069z m70.620689 70.62069h953.379311a70.62069 70.62069 0 0 1 70.620689 70.620689v529.655173a70.62069 70.62069 0 0 1-70.620689 70.620689H141.241379a70.62069 70.62069 0 0 1-70.620689-70.620689V141.241379a70.62069 70.62069 0 0 1 70.620689-70.620689z m105.931035 882.75862h741.517241a35.310345 35.310345 0 0 1 35.310345 35.310345c0 19.49131-51.129379 35.310345-70.62069 35.310345H247.172414a35.310345 35.310345 0 1 1 0-70.62069z" fill="#0096CE" p-id="899"></path><path d="M600.275862 35.310345h35.310345v141.241379h-35.310345V35.310345z m0 600.275862h35.310345v141.241379h-35.310345v-141.241379zM211.862069 388.413793v35.310345H35.310345v-35.310345h176.551724z m988.689655 0v35.310345h-176.551724v-35.310345h176.551724z" fill="#25E6E4" p-id="900"></path><path d="M617.931034 406.068966m-52.965517 0a52.965517 52.965517 0 1 0 105.931035 0 52.965517 52.965517 0 1 0-105.931035 0Z" fill="#25E6E4" p-id="901"></path><path d="M617.931034 247.172414a158.896552 158.896552 0 1 1-158.896551 158.896552A158.896552 158.896552 0 0 1 617.931034 247.172414z m0 35.310345a123.586207 123.586207 0 1 1-123.586206 123.586207A123.586207 123.586207 0 0 1 617.931034 282.482759z" fill="#25E6E4" p-id="902"></path></svg>
                 </div>
                 <div class="p">
-                    更改位置状态
+                    违纪信息
                 </div>
             </a>
         </div>
-
         <div class="option">
-            <a href="跳转到违纪登记">
+            <a href="跳转到注册学生表">
                 <div class="svg">
                     <svg t="1594273202481" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1095" width="40" height="40"><path d="M527.938065 22.891355a883.745032 883.745032 0 0 0 463.409548 144.317935C990.951226 231.225806 990.951226 342.874839 990.951226 528.516129c0 178.605419-193.205677 471.403355-463.013161 493.336774a49.911742 49.911742 0 0 1-15.954581 1.057032 49.944774 49.944774 0 0 1-15.954581-1.057032C226.221419 999.919484 33.015742 707.121548 33.015742 528.516129c0-185.64129 0-297.290323-0.396387-361.306839A883.712 883.712 0 0 0 496.028903 22.891355h31.942194zM525.757935 99.096774A749.369806 749.369806 0 0 0 925.217032 226.832516C924.88671 283.416774 924.88671 356.748387 924.88671 520.852645c0 157.894194-166.548645 416.701935-399.128775 436.025807A42.050065 42.050065 0 0 1 511.983484 957.935484a42.149161 42.149161 0 0 1-13.774452-0.924903C265.628903 937.554581 99.080258 678.746839 99.080258 520.852645c0-164.104258 0-237.435871-0.330323-293.987097A749.303742 749.303742 0 0 0 498.209032 99.096774h27.515871z" fill="#0096CE" p-id="1096"></path><path d="M511.983484 297.290323s-44.725677 149.966452-181.677419 173.419354c0 0 181.677419 159.116387 181.677419 289.032258V297.290323z m0 0s44.725677 149.966452 181.677419 173.419354c0 0-181.677419 159.116387-181.677419 289.032258V297.290323z" fill="#25E6E4" p-id="1097"></path><path d="M178.159484 530.531097v29.035355H33.015742v-29.035355h145.143742z m812.791742 0v29.035355h-145.143742v-29.035355H990.951226zM497.482323 878.856258h29.035354V1024h-29.035354v-145.143742z m0-812.791742h29.035354v145.143742h-29.035354V66.064516zM265.661935 770.807742l20.513033 20.513032-102.598194 102.664258-20.513032-20.546064z m574.761291-574.76129l20.513032 20.513032-102.631226 102.69729-20.513032-20.513032z m-102.664258 595.307354l20.513032-20.513032 102.631226 102.631226-20.546065 20.513032z m-574.761291-574.76129l20.513033-20.513032 102.69729 102.631226-20.513032 20.513032z" fill="#25E6E4" p-id="1098"></path></svg>
                 </div>
                 <div class="p">
-                    违纪登记
+                    注册学生表
                 </div>
             </a>
         </div>
-
         <div class="option">
-            <a href="跳转到违纪修改">
+            <a href="跳转到座位状态">
                 <div class="svg">
                     <svg t="1594273513508" class="icon" viewBox="0 0 1025 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2015" width="40" height="40"><path d="M993.28 960h-960a32 32 0 0 0 0 64h960a32 32 0 0 0 0-64zM184.32 869.12h3.84l192-24.96a31.36 31.36 0 0 0 11.52-5.12h3.2l613.76-613.76a32 32 0 0 0 0-45.44L848 10.24a32 32 0 0 0-45.44 0L192 624a31.36 31.36 0 0 0-5.12 11.52L152.32 832a32 32 0 0 0 32 37.12z m37.76-69.12l12.16-85.76 74.88 74.88zM825.6 78.08l120.96 120.32-68.48 67.84-120.32-120.32zM712.32 192L832 311.68 377.6 768 256 646.4z" fill="#14ADC4" p-id="2016"></path></svg>
                 </div>
                 <div class="p">
-                    违纪修改
+                    座位状态
                 </div>
             </a>
         </div>
     </div>
-
     <div class="znr">
         <div class="h1">
-            更改位置状态
+            学生信息
         </div>
-        <div style="display: flex">
-            <div class="script1">
-                <center>
-                    <div class="table">
-                        <script>
-                            for(i=0;i<4;i++){
-                                for(j=0;j<5;j++){
-                                    if("可用状态"=="可预约"){
-                                        document.write("<button type='submit' '><img src='img/可选座位.png'/></input>");
-                                    }
-                                    else if("可用状态"=="已预约"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/已选座位.png'/></input>");
-                                    }
-                                    else if ("可用状态"=="已损坏"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/损坏.png'/></input>");
-                                    }
-                                    if (j==4){
-                                        document.write("<br>");
-                                    }
-                                }
-                            }
-                        </script>
-                    </div>
-
-                    <div class="label">
-                        <label class="layui-btn layui-btn-radius">考研F1</label>
-                    </div>
-                </center>
-            </div>
-            <div class="script2">
-                <center>
-                    <div class="table">
-                        <script>
-                            for(i=0;i<4;i++){
-                                for(j=0;j<5;j++){
-                                    if("可用状态"=="可预约"){
-                                        document.write("<button type='submit' '><img src='img/可选座位.png'/></input>");
-                                    }
-                                    else if("可用状态"=="已预约"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/已选座位.png'/></input>");
-                                    }
-                                    else if ("可用状态"=="已损坏"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/损坏.png'/></input>");
-                                    }
-                                    if (j==4){
-                                        document.write("<br>");
-                                    }
-                                }
-                            }
-                        </script>
-                    </div>
-
-                    <div class="label">
-                        <label class="layui-btn layui-btn-radius">考研F2</label>
-                    </div>
-                </center>
-            </div>
-        </div>
-        <div style="display: flex">
-            <div class="script1">
-                <center>
-                    <div class="table">
-                        <script>
-                            for(i=0;i<4;i++){
-                                for(j=0;j<5;j++){
-                                    if("可用状态"=="可预约"){
-                                        document.write("<button type='submit' '><img src='img/可选座位.png'/></input>");
-                                    }
-                                    else if("可用状态"=="已预约"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/已选座位.png'/></input>");
-                                    }
-                                    else if ("可用状态"=="已损坏"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/损坏.png'/></input>");
-                                    }
-
-                                    if (j==4){
-                                        document.write("<br>");
-                                    }
-                                }
-                            }
-                        </script>
-                    </div>
-
-                    <div class="label">
-                        <label class="layui-btn  layui-btn-warm layui-btn-radius">学习F4</label>
-                    </div>
-                </center>
-            </div>
-            <div class="script2">
-                <center>
-                    <div class="table">
-                        <script>
-                            for(i=0;i<4;i++){
-                                for(j=0;j<5;j++){
-                                    if("可用状态"=="可预约"){
-                                        document.write("<button type='submit' '><img src='img/可选座位.png'/></input>");
-                                    }
-                                    else if("可用状态"=="已预约"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/已选座位.png'/></input>");
-                                    }
-                                    else if ("可用状态"=="已损坏"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/损坏.png'/></input>");
-                                    }
-                                    if (j==4){
-                                        document.write("<br>");
-                                    }
-                                }
-                            }
-                        </script>
-                    </div>
-
-                    <div class="label">
-                        <label class="layui-btn  layui-btn-warm layui-btn-radius">学习F4</label>
-                    </div>
-                </center>
-            </div>
+        <div>
+            <center>
+                <table class="hovertable">
+                    <tr>
+                        <th>学号</th><th>姓名</th><th>违纪次数</th><th>预约权限</th>
+                    </tr>
+                    <script>
+                        for(i=0;i<"数据长度";i++) {
+                            document.write("<tr onmousemove=this.style.backgroundColor='#ffff66'; onmouseout = this.style.backgroundColor='#d4e3e5'>"+
+                                " <td> 学号 </td><td>姓名</td><td> 违纪次数</td><td>预约权限</td>")
+                        }
+                    </script>
+                </table>
+            </center>
         </div>
     </div>
 </div>

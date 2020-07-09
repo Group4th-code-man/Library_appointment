@@ -20,7 +20,6 @@
     <div class="lbt">
 
     </div>
-
     <div class="xxk">
         <div class="option">
             <a href="跳转更改位置状态">
@@ -32,7 +31,6 @@
                 </div>
             </a>
         </div>
-
         <div class="option">
             <a href="跳转到违纪登记">
                 <div class="svg">
@@ -43,7 +41,6 @@
                 </div>
             </a>
         </div>
-
         <div class="option">
             <a href="跳转到违纪修改">
                 <div class="svg">
@@ -55,129 +52,31 @@
             </a>
         </div>
     </div>
-
     <div class="znr">
         <div class="h1">
-            更改位置状态
+            违纪登记
         </div>
-        <div style="display: flex">
-            <div class="script1">
-                <center>
-                    <div class="table">
-                        <script>
-                            for(i=0;i<4;i++){
-                                for(j=0;j<5;j++){
-                                    if("可用状态"=="可预约"){
-                                        document.write("<button type='submit' '><img src='img/可选座位.png'/></input>");
-                                    }
-                                    else if("可用状态"=="已预约"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/已选座位.png'/></input>");
-                                    }
-                                    else if ("可用状态"=="已损坏"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/损坏.png'/></input>");
-                                    }
-                                    if (j==4){
-                                        document.write("<br>");
-                                    }
-                                }
-                            }
-                        </script>
-                    </div>
-
-                    <div class="label">
-                        <label class="layui-btn layui-btn-radius">考研F1</label>
-                    </div>
-                </center>
+        <form action="" method="get">
+            <div class="label">
+                <label>区管学号</label><input type="text" name="" placeholder="输入内容">
             </div>
-            <div class="script2">
-                <center>
-                    <div class="table">
-                        <script>
-                            for(i=0;i<4;i++){
-                                for(j=0;j<5;j++){
-                                    if("可用状态"=="可预约"){
-                                        document.write("<button type='submit' '><img src='img/可选座位.png'/></input>");
-                                    }
-                                    else if("可用状态"=="已预约"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/已选座位.png'/></input>");
-                                    }
-                                    else if ("可用状态"=="已损坏"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/损坏.png'/></input>");
-                                    }
-                                    if (j==4){
-                                        document.write("<br>");
-                                    }
-                                }
-                            }
-                        </script>
-                    </div>
-
-                    <div class="label">
-                        <label class="layui-btn layui-btn-radius">考研F2</label>
-                    </div>
-                </center>
+            <div class="label">
+                <label>学生学号</label><input type="text" name="" placeholder="输入内容">
             </div>
-        </div>
-        <div style="display: flex">
-            <div class="script1">
-                <center>
-                    <div class="table">
-                        <script>
-                            for(i=0;i<4;i++){
-                                for(j=0;j<5;j++){
-                                    if("可用状态"=="可预约"){
-                                        document.write("<button type='submit' '><img src='img/可选座位.png'/></input>");
-                                    }
-                                    else if("可用状态"=="已预约"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/已选座位.png'/></input>");
-                                    }
-                                    else if ("可用状态"=="已损坏"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/损坏.png'/></input>");
-                                    }
-
-                                    if (j==4){
-                                        document.write("<br>");
-                                    }
-                                }
-                            }
-                        </script>
-                    </div>
-
-                    <div class="label">
-                        <label class="layui-btn  layui-btn-warm layui-btn-radius">学习F4</label>
-                    </div>
-                </center>
+            <div class="label" style="display: flex">
+                <div style="width: 100px">
+                    违纪事件
+                </div>
+                <div style="margin-left: 20px">
+                    <label><input style="margin-bottom: 15px" type="radio" name="事件1" value="事件1" title="可损坏"></label>可预约<br>
+                    <label><input style="margin-bottom: 15px" type="radio" name="事件2" value="事件2" title="不可预约"></label>不可预约<br>
+                    <label><input style="margin-bottom: 15px" type="radio" name="事件3" value="事件3" title="已损坏"></label>已损坏
+                </div>
             </div>
-            <div class="script2">
-                <center>
-                    <div class="table">
-                        <script>
-                            for(i=0;i<4;i++){
-                                for(j=0;j<5;j++){
-                                    if("可用状态"=="可预约"){
-                                        document.write("<button type='submit' '><img src='img/可选座位.png'/></input>");
-                                    }
-                                    else if("可用状态"=="已预约"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/已选座位.png'/></input>");
-                                    }
-                                    else if ("可用状态"=="已损坏"){
-                                        document.write("<button type='submit' class='layui-btn button'><img src='img/损坏.png'/></input>");
-                                    }
-                                    if (j==4){
-                                        document.write("<br>");
-                                    }
-                                }
-                            }
-                        </script>
-                    </div>
-
-                    <div class="label">
-                        <label class="layui-btn  layui-btn-warm layui-btn-radius">学习F4</label>
-                    </div>
-                </center>
-            </div>
-        </div>
+            <div> <input type="submit" class="inputButton" value="确认"/></div>
+        </form>
     </div>
+
 </div>
 </body>
 </html>
