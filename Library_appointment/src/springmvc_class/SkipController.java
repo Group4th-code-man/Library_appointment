@@ -7,27 +7,27 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class SkipController {
 
-    @RequestMapping(value = "test")
+    @RequestMapping(value = "/test")
     public String test()
     {
         return "test";
     }
 
-    @RequestMapping(value = "student_Homepage")
+    @RequestMapping(value = "/student_homepage")
     public String To_Student_Homepage()
     {
-        return "Student_Homepage";
+        return "student_homepage";
     }
 
-    @RequestMapping(value = "student_seat")
+    @RequestMapping(value = "/student_seat")
     public String To_Student_reserve_seat()
     {
-        return "Student_reserve_seat";
+        return "student_reserve_seat";
     }
 
-    @RequestMapping(value = "student_room")
+    @RequestMapping(value = "/student_room")
     public String To_Student_reserve_room()
     {
-        return "Student_reserve_room";
+        return "student_reserve_room";
     }
 }

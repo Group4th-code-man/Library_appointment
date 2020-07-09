@@ -3,7 +3,15 @@
   <component name="FacetManager">
     <facet type="Spring" name="Spring">
       <configuration>
-        <fileset id="fileset" name="Spring Application Context" removed="false">
+        <fileset id="web dispatcher servlet context" name="MVC dispatcher servlet context" removed="true">
+          <file>file://$MODULE_DIR$/Library_appointment/web/WEB-INF/dispatcher-servlet.xml</file>
+        </fileset>
+        <fileset id="fileset" name="Spring MVCApplication Context" removed="false" />
+        <fileset id="fileset2" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/out/artifacts/Library_appointment_war_exploded/WEB-INF/dispatcher-servlet.xml</file>
+          <file>file://$MODULE_DIR$/Library_appointment/web/WEB-INF/dispatcher-servlet.xml</file>
+        </fileset>
+        <fileset id="fileset3" name="Spring Application Context (2)" removed="false">
           <file>file://$MODULE_DIR$/Library_appointment/web/WEB-INF/dispatcher-servlet.xml</file>
         </fileset>
       </configuration>
@@ -29,5 +37,16 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Spring_lib_4.3" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/Library_appointment/web/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/Library_appointment/web/WEB-INF/lib" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
