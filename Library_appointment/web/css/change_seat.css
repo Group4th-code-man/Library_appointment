@@ -1,0 +1,132 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+.txk{
+    background: #f1f1f1;
+    height: 18vh;
+    float: left;
+    width: 15%;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 3px;
+    display: flex;
+    box-shadow: 0 0 5px 5px rgba(0,0,0,0.1);
+}
+.txk .p{
+    width: 65%;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: 15px;
+    float: right;
+}
+.txk .svg{
+    margin-top: 18px;
+    margin-left: 6px;
+    width: 30%;
+    float: left;
+}
+
+.lbt{
+    float: right;
+    width: 82%;
+    height: 18vh;
+    background: #FFB800;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 25px;
+    margin-top: 10px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px 5px rgba(0,0,0,0.1);
+}
+
+.xxk{
+    width: 15%;
+    height: 77vh;
+    background: #393D49;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px 5px rgba(0,0,0,0.1);
+    float: left;
+}
+
+.xxk .option{
+    float: left;
+    display: inline-block;
+    width: 100%;
+}
+.xxk .p{
+    width: 60%;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 8px;
+    float: right;
+    color: #dddddd;
+}
+.xxk .svg{
+    margin-top: 18px;
+    margin-left: 15px;
+    width: 25%;
+    float: left;
+}
+
+.znr{
+    float: right;
+    width: 82%;
+    height: 77vh;
+    background: #d2d2d2;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 25px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px 5px rgba(0,0,0,0.1);
+}
+
+.h1{
+    width: 100%;
+    height: 10vh;
+    margin-left: 70px;
+    margin-top: 25px;
+    font-size: 40px;
+
+}
+
+.script1{
+    height: 30vh;
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.script1 .table{
+    width: 50%;
+    height: 70%;
+}
+.script1 .label{
+    height: 20%;
+    margin-top: 10px;
+}
+
+.script2{
+    height: 30vh;
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.script2 .table{
+    width: 50%;
+    height: 70%;
+}
+.script2 .label{
+    height: 20%;
+    margin-top: 10px;
+}
+
+img{
+    size: 25px;
+}
