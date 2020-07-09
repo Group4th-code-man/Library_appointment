@@ -15,6 +15,7 @@ public class SkipController {
 
     @RequestMapping(value = "/login")
     public String login(){return "login";}
+
     @RequestMapping(value = "/student_homepage")
     public String To_Student_Homepage()
     {

@@ -23,7 +23,8 @@
           <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Library_appointment/web/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
-          <root url="file://$MODULE_DIR$/Library_appointment/web" relative="/" />
+          <root url="file://$MODULE_DIR$/Library_appointment/web/WEB-INF/lib" relative="/" />
+          <root url="file://$MODULE_DIR$/Library_appointment/src" relative="/" />
         </webroots>
         <sourceRoots />
       </configuration>
@@ -34,14 +35,25 @@
     <output-test url="file://$MODULE_DIR$/Library_appointment/web/WEB-INF/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Library_appointment/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Library_appointment/conf" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Library_appointment/web/WEB-INF/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Library_appointment/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Spring_lib_4.3" level="project" />
     <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/Library_appointment/web/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/Library_appointment/web/WEB-INF/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="lib" level="project" />
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
           <root url="file://$MODULE_DIR$/Library_appointment/web/WEB-INF/lib" />
