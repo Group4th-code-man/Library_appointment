@@ -15,6 +15,7 @@
 <center>
     <div id="bigBox" >
         <h1>登录界面</h1>
+
         <div class="inputBox">
             <div class="inputText">
                 <input type="text" placeholder="Username"/>
@@ -22,7 +23,13 @@
             <div class="inputText">
                 <input type="password" placeholder="Password"/>
             </div>
-
+            <div>
+                <select class="parent">
+                    <option value="0">学生</option>
+                    <option value="1">区长</option>
+                    <option value="2">管理员</option>
+                </select>
+            </div>
             <input type="button" class="inputButton" value="login"/>
         </div>
     </div>
