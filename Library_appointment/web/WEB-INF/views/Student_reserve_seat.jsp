@@ -27,7 +27,7 @@
         .z_left{
             position: absolute;
             left: 5px;
-            width: 300px;height: 650px;
+            width: 330px;height: 650px;
         }
         .z_left_head{
             position: absolute;
@@ -38,7 +38,7 @@
         .z_left_body{
             position: absolute;
             left: -50px;top:150px;
-            width: 300px;height: 500px;
+            width: 330px;height: 500px;
             background-color: white;
         }
         .z_line{
@@ -119,15 +119,15 @@
                     <dl>
                         <dd style="margin-bottom: 10px;">
                             <a href="student_Homepage"><i class="layui-icon layui-icon-home" style="font-size:40px;color: #b2b2b2 "></i>
-                                &nbsp;预定信息</a>
+                                &nbsp;预定信息&nbsp;</a>
                         </dd>
                         <dd style="margin-bottom: 10px;">
                             <a href="student_seat"><i class="layui-icon layui-icon-read" style="font-size:40px;color: #b2b2b2 "></i>
-                                &nbsp;预定位置</a>
+                                &nbsp;预定位置&nbsp;</a>
                         </dd>
                         <dd style="margin-bottom: 10px;">
                             <a href="student_room"><i class="layui-icon layui-icon-app" style="font-size:40px;color: #b2b2b2 "></i>
-                                &nbsp;预定房间</a>
+                                &nbsp;预定房间&nbsp;</a>
                         </dd>
                     </dl>
                 </li>
@@ -141,32 +141,26 @@
                     <input value="m1" name="time" hidden>
                     <input type="submit" class="z_button" value="1-2节">
                 </form>
-                </br>
                 <form method="post">
                     <input value="m2" name="time" hidden>
                     <input type="submit" class="z_button" value="3-4节">
                 </form>
-                </br>
                 <form method="post">
                     <input value="n1" name="time" hidden>
                     <input type="submit" class="z_button" value="午1-2">
                 </form>
-                </br>
                 <form method="post">
                     <input value="a1" name="time" hidden>
                     <input type="submit" class="z_button" value="5-6节">
                 </form>
-                </br>
                 <form method="post">
                     <input value="a1" name="time" hidden>
                     <input type="submit" class="z_button" value="7-8节">
                 </form>
-                </br>
                 <form method="post">
                     <input value="e1" name="time" hidden>
                     <input type="submit" class="z_button" value="9-10节">
                 </form>
-                </br>
             </div>
             <div class="z_div_title">
                 请选择预定座位位置

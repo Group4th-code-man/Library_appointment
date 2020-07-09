@@ -2,14 +2,14 @@
   Created by IntelliJ IDEA.
   User: 25299
   Date: 2020/7/9
-  Time: 9:18
+  Time: 11:15
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>预约记录</title>
+    <title>违纪记录</title>
 
     <link rel="stylesheet" href="/Library_appointment/layui/css/layui.css">
     <script src="/Library_appointment/layui/layui.js"></script>
@@ -119,72 +119,7 @@
                 <p style="font-size: 32px">预约座位</p>
                 <hr style="border-top:darkgray 1px solid;width: 750px;">
                 <table class="z_table_record">
-                    <tr>
-                        <td>已预约座位</td>
-                        <td>预约时间段</td>
-                        <td>操作</td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                </table>
-            </div>
-            <div class="z_R_div2">
-                <p style="font-size: 32px">预约房间</p>
-                <hr style="border-top:darkgray 1px solid;width: 750px;">
-                <table class="z_table_record">
-                    <tr>
-                        <td>已预约房间</td>
-                        <td>预约时间段</td>
-                        <td>操作</td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
+
                 </table>
             </div>
         </div>
@@ -193,3 +128,4 @@
 
 </body>
 </html>
+
