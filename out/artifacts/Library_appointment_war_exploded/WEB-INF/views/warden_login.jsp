@@ -22,7 +22,6 @@
             <div class="inputText">
                 <input type="password" placeholder="Password"/>
             </div>
-
             <input type="button" class="inputButton" value="login"/>
         </div>
     </div>
